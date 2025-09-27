@@ -67,4 +67,4 @@ docker compose logs -f db
 - **GET api/v1/organizations/?name_organization=ОАО "Сыроварня"**
 
 ### Организации в географическом радиусе
-- **GET api/v1/organizations/?lat=55.75&lon=37.61&radius=12**
+- **GET api/v1/organizations/?latitude=55.75&longitude=37.61&radius=12**
